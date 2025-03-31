@@ -1,4 +1,5 @@
-import addition
+from . import addition
+
 
 def perform_operation(multiplier, multiplicand):
     result = 0
